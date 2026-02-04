@@ -26,22 +26,6 @@ Graph-Based-Recommendation-System/
 └── README.md
 
 
-How to Run
+## **Technologies Used**
 
-Install required packages:
-
-pip install networkx pandas scikit-learn matplotlib
-
-
-Navigate to the src folder:
-
-cd src
-
-
-Run the friend recommendation script:
-
-python friend_recommendation.py
-
-Technologies Used
-
-Python | NetworkX | Pandas | NumPy | Scikit-learn | Matplotlib
+**Python | NetworkX | Pandas | NumPy | Scikit-learn | Matplotlib**
