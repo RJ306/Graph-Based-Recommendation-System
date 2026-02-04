@@ -26,12 +26,13 @@ Graph-Based-Recommendation-System/
 └── README.md
 
 
+
 ---
 
+## How to Run
 
 ```bash
 pip install networkx pandas scikit-learn matplotlib
 cd src
 python friend_recommendation.py
-## Technologies Used
-  Python | NetworkX | Pandas | NumPy | Scikit-learn | Matplotlib
+
