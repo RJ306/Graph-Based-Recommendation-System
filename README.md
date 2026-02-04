@@ -17,14 +17,14 @@ A **Machine Learning-based Friend Recommendation System** that predicts potentia
 ---
 
 ## Folder Structure
-"""
-Friend-Recommendation-System/
-├── src/ # Source code
-│ └── CODDE.py
-├── data/ # Dataset
-│ └── pakistani_friendships.csv
+```text
+Graph-Based-Recommendation-System/
+├── src/          # Source code
+│   └── CODDE.py
+├── data/         # Dataset
+│   └── pakistani_friendships.csv
 └── README.md
-"""
+
 
 ---
 
