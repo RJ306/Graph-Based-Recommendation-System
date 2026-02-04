@@ -27,7 +27,7 @@ Graph-Based-Recommendation-System/
 
 
 ---
-## How to Run
+
 
 ```bash
 pip install networkx pandas scikit-learn matplotlib
